@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KarloProjeto</string>
+    <string name="start">Iniciar</string>
+    <string name="login">Entrar</string>
+    <string name="back_login">Voltar ao login</string>
+    <string name="back_start">Voltar ao início</string>
+</resources>
